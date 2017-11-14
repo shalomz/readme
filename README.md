@@ -1,4 +1,4 @@
-# readme
+# README Templates
 
 This repository has a few templates for README files and some notes about which type of information you could write on them.
 
@@ -16,14 +16,14 @@ So while you are writing your readme files please consider a few things:
     - Is there any hardware requirements or dependencies?
     - After the installation, how they compile or run the code?
 3. Execution examples
-    - You could provide examples of execution with code and screenshots
+    - You could provide examples of execution with code and screenshots - Most times than not, other developers and/or users shy away from using tools/libraries with no workable example(s). Me too!
 
-other things you could add:
+Other things you could add:
 
-- Table of content
+- Table of contents
 - Test cases
-- Know bugs
-- Version
+- Known bugs
+- Version(s)
 - Contributors
 - License
 - References
@@ -41,7 +41,7 @@ other things you could add:
 
 Please feel free to contribute by adding new templates to this project:
 
-1. Fork it (<https://github.com/inessadl/readme>)
+1. Fork it (<https://github.com/shalomz/readme>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
